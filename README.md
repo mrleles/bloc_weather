@@ -1,6 +1,8 @@
 # bloc_weather
 
-A new Flutter project.
+An app to show the current weather condition of a given city.
+
+
 
 ## Getting Started
 
